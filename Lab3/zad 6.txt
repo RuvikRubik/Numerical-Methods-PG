@@ -1,0 +1,9 @@
+dla x = A\b error wynosi 7.0645e-13
+dla jacobi wynosi nan
+dla Gaussa  error wynosi 6.4645e+10
+
+
+dla pierwszego bład wynosi bardzo mało w drugim wynosi bardzo dużo prez to nie dochodzi do 1000 iteracji
+dla gaussa wynosi mniej ale dalej duży
+
+
